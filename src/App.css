@@ -1,0 +1,13 @@
+.btn{
+    color: red;
+    background-color: aqua;
+    padding: 10px 30px;
+    margin-left: 20px;
+    border-radius: 25px;
+}
+.main__card{
+    
+   text-align: center;
+   transform: translateY(50%);
+}
+
